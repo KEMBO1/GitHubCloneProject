@@ -1,1 +1,1 @@
-## Git Workflow Task - Objective: Practice creating branches, merging and resolving conflicts.
+## Git Workflow Task - Objective: Practice creating branches, merging, and resolving conflicts.
