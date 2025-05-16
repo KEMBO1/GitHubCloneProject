@@ -1,1 +1,5 @@
-## Git Workflow Task - Objective: Practice creating branches, merging, and resolving conflicts.
+<<<<<<< HEAD
+Modification in main branch.
+=======
+This is a new feature.
+>>>>>>> feature-greeting
