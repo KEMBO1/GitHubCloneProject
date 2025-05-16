@@ -1,2 +1,1 @@
-## Objective: Practice branching and merging with Git
-Modification in main branch.
+## Git Workflow Task - Objective: Practice creating branches, merging and resolving conflicts.
